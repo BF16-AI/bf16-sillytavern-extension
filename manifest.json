@@ -1,0 +1,12 @@
+{
+  "display_name": "bf16.ai — 1M Context Uncensored LLM Preset",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "BF16 Team",
+  "version": "1.0.0",
+  "homePage": "https://bf16.ai/docs/clients/sillytavern",
+  "auto_update": true
+}

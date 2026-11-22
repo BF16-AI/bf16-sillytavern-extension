@@ -1,0 +1,27 @@
+.bf16-st-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 6px 0;
+}
+.bf16-st-models {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.bf16-st-btn {
+  padding: 5px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--SmartThemeBorderColor, #444);
+  background: var(--SmartThemeBlurTintColor, rgba(255, 255, 255, 0.06));
+  color: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+.bf16-st-btn:hover {
+  border-color: #ffd440;
+}
+.bf16-st-status {
+  font-size: 12px;
+  opacity: 0.85;
+}
